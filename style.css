@@ -19,4 +19,14 @@
   .table-sortable .th-sort-desc {
     background: rgba(0, 0, 0, 0.1);
   }
+  table, td, th {
+    border: 1px solid black;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  td {
+    text-align: center;
+  }
   
